@@ -1,0 +1,15 @@
+{
+    "name": "renat/php_pdo",
+    "autoload": {
+        "psr-4": {
+            "app\\classes\\": "app/classes"
+        }
+    },
+    "authors": [
+        {
+            "name": "NatoRodrigues",
+            "email": "renwise2.0@gmail.com"
+        }
+    ],
+    "require": {}
+}
