@@ -14,7 +14,7 @@ class Connection {
 
 
         // Obtém as configurações do banco de dados do array $config
-        var_dump($config);
+         
          
         try {
             // Cria uma conexão PDO usando as configurações obtidas do array $config
