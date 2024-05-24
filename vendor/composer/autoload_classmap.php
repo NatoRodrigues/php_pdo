@@ -9,4 +9,7 @@ return array(
     'Composer\\InstalledVersions' => $vendorDir . '/composer/InstalledVersions.php',
     'app\\classes\\Routes' => $baseDir . '/app/classes/Routes.php',
     'app\\classes\\Uri' => $baseDir . '/app/classes/Uri.php',
+    'app\\models\\Connection' => $baseDir . '/app/models/Connection.php',
+    'app\\models\\Models' => $baseDir . '/app/models/Models.php',
+    'app\\models\\User' => $baseDir . '/app/models/User.php',
 );
